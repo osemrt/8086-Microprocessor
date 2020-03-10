@@ -9,4 +9,5 @@
 -   B7 -> 7SEG g
 -   B8 -> 7SEG h
 
-![https://drive.google.com/uc?id=1Fny5QujyIkw0scztQmGbXle54GEIjubW](https://drive.google.com/uc?id=1Fny5QujyIkw0scztQmGbXle54GEIjubW)
+![https://github.com/image-assets/gif/blob/master/record_191117_002240.gif](https://github.com/image-assets/gif/blob/master/record_191117_002240.gif)
+

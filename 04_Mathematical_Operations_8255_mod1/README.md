@@ -5,4 +5,4 @@ In this either port A or B can work and port C bits are used to provide handshak
 
 Example: When CPU wants to send data to slow peripheral device like printer, it will send handshaking signal to printer to tell whether it is ready or not to transfer the data. When printer will be ready it will send one acknowledgement to CPU then there will be transfer of data through data bus.
 
-![enter image description here](https://drive.google.com/uc?id=1B2Da_pShz1SghyxStpRT7AhUu-xhNkMk)
+![enter image description here](https://github.com/image-assets/gif/blob/master/04_Mathematical_Operations_8255_mod1.gif)

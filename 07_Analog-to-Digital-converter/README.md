@@ -4,5 +4,4 @@
 
 Find the approximate frequency of the high-frequency component of an unknown source signal.
 
-![enter image description here](https://drive.google.com/uc?id=13QrxBeOvCcDF2RyjXuTZzUPzwp6Q77QW
-)
+![enter image description here](https://github.com/image-assets/gif/blob/master/07_Analog-to-Digital-converter.gif)
